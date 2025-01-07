@@ -62,3 +62,5 @@ YuniKorn社区版在计算巢部署的费用主要涉及：
 4. 访问 YuniKorn 大盘
     ![image.png](7.jpg)
     ![image.png](8.jpg)
+
+更多相关介绍，可参考[文章](https://developer.aliyun.com/article/1648295) 。
