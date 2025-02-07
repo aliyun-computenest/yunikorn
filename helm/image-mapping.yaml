@@ -1,0 +1,7 @@
+image-mapping:
+- original-image: apache/yunikorn:web-1.6.0
+  new-image: compute-nest-registry.cn-hangzhou.cr.aliyuncs.com/1853370294850618/apache/yunikorn:web-1.6.0
+- original-image: apache/yunikorn:scheduler-1.6.0
+  new-image: compute-nest-registry.cn-hangzhou.cr.aliyuncs.com/1853370294850618/apache/yunikorn:scheduler-1.6.0
+- original-image: apache/yunikorn:admission-1.6.0
+  new-image: compute-nest-registry.cn-hangzhou.cr.aliyuncs.com/1853370294850618/apache/yunikorn:admission-1.6.0

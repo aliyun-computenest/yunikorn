@@ -24,7 +24,7 @@ hostNetwork: false
 priorityClassName: ""
 
 image:
-  repository: apache/yunikorn
+  repository: compute-nest-registry.cn-hangzhou.cr.aliyuncs.com/1853370294850618/apache/yunikorn
   tag: scheduler-1.6.0
   pullPolicy: Always
 
@@ -44,7 +44,7 @@ placeHolderImage: null # deprecated; use service.placeholderImage in yunikornDef
 admissionController:
   priorityClassName: ""
   image:
-    repository: apache/yunikorn
+    repository: compute-nest-registry.cn-hangzhou.cr.aliyuncs.com/1853370294850618/apache/yunikorn
     tag: admission-1.6.0
     pullPolicy: Always
   replicaCount: 1
@@ -71,7 +71,7 @@ admissionController:
 
 web:
   image:
-    repository: apache/yunikorn
+    repository: compute-nest-registry.cn-hangzhou.cr.aliyuncs.com/1853370294850618/apache/yunikorn
     tag: web-1.6.0
     pullPolicy: Always
   resources:
